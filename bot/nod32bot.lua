@@ -248,7 +248,7 @@ function create_config( )
     "filter_word",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {223936211},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -324,7 +324,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Commands list :
  
 1-banhammer list ^
  
@@ -503,25 +503,8 @@ NOD32 Commands list :
 !filterlist
 لیست کلمات فیلتر شده
 
-11-bot number & support ^
 
-!botnumber
-دریافت شماره ربات
-
-!support
-دعوت سازنده ربات به گروه
-(در صورت وجود مشکل)
-
-!version
-ورژن ربات
-
-!feedback (text)
-ارسال نظرات به سازنده
-
-you can use both "/" and "!" 
-.شما میتوانید از ! و / استفاده کنید
-
-channel: @Nod32Team
+channel: @hackdifferent
 
 G00D LUCK ^_^
 ]]
